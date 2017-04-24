@@ -1,0 +1,26 @@
+{
+  "name": "timers-smf",
+  "version": "1.0.0",
+  "description": "Replaces existing setTimeout and setInterval (C++ Thread) with Timers (UI Thread)",
+  "main": "timers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alperozisik/timers-smf.git"
+  },
+  "keywords": [
+    "setTimeout",
+    "setInterval",
+    "Timer",
+    "Thread",
+    "Smartface"
+  ],
+  "author": "Alper Ozisik <alper.ozisik@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alperozisik/timers-smf/issues"
+  },
+  "homepage": "https://github.com/alperozisik/timers-smf#readme"
+}
